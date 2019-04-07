@@ -3,6 +3,12 @@
     "uuid": "a08f3be6-3549-3bc8-913c-a5de60e3c19b",
     "name": "P4T13NTZ3R0",
     "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "c7eac3d2-fa4d-3290-9ee9-98ba8e0816e0",
+    "name": "Calibrium",
+    "level": 4,
     "bypassesPlayerLimit": false
   }
 ]
